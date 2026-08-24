@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Berkekoksal&label=Profile+Views&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=hilllalllk&label=Profile+Views&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -272,12 +272,12 @@ This project allowed me to apply concepts from my Computer Engineering education
 
 ## 📊 GitHub Overview
 
-<a href="https://github.com/Berkekoksal?tab=repositories">
+<a href="https://github.com/hilllalllk?tab=repositories">
   <img src="https://img.shields.io/badge/Public%20Repositories-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/Berkekoksal?tab=followers">
-  <img src="https://img.shields.io/github/followers/Berkekoksal?label=Followers&style=for-the-badge&logo=github" />
+<a href="https://github.com/hilllalllk?tab=followers">
+  <img src="https://img.shields.io/github/followers/hilllalllk?label=Followers&style=for-the-badge&logo=github" />
 </a>
 
 </div>
@@ -290,7 +290,7 @@ This project allowed me to apply concepts from my Computer Engineering education
 
 ## 📈 Contribution Activity
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Berkekoksal&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hilllalllk&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity" />
 
 </div>
 
@@ -303,9 +303,9 @@ This project allowed me to apply concepts from my Computer Engineering education
 ## 🐍 Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Berkekoksal/Berkekoksal/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Berkekoksal/Berkekoksal/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Berkekoksal/Berkekoksal/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hilllalllk/hilllalllk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hilllalllk/hilllalllk/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/hilllalllk/hilllalllk/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
