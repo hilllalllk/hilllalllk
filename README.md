@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Kadir Berke Köksal
+# 👋 Hi, I'm HİLAL KARAYİĞİT
 
 ### Computer Engineering Student · Software Development · IoT & Mobile Applications
 
